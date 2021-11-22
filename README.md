@@ -31,3 +31,7 @@
 <a href="https://github.com/">1. Problem Statement</a>
 
 <a href="https://github.com/">2. Requirement Gathering</a>
+
+# 회의록
+2021-11-14(일요일) 주제선정, Requirements Gathering 작성
+2021-11-22(월요일) Problem Statement 정의 및 그에 따른 Requirement 반영 및 사이즈 수정
